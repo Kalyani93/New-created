@@ -1,2 +1,3 @@
 # New-created
-Just created learning purpose
+My first github project
+I love :tea
